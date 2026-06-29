@@ -1,4 +1,4 @@
-````md
+
 <h1 align="center">Hi 👋, I'm Naitik Morker</h1>
 
 <h3 align="center">
@@ -160,4 +160,3 @@ Version Control  : Git & GitHub
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=naitik00101&theme=github-dark&hide_border=true"/>
 </p>
-````
