@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Naitik Morker</h1>
 
 <h3 align="center">
@@ -6,7 +5,7 @@ Full Stack Developer | SaaS Engineer | Backend Enthusiast
 </h3>
 
 <p align="center">
-Building scalable web applications, modern SaaS platforms, and continuously learning backend engineering, distributed systems, and software architecture.
+Building scalable web applications, modern SaaS platforms, and continuously expanding my knowledge in backend engineering, system design, and distributed systems.
 </p>
 
 ---
@@ -21,41 +20,18 @@ Building scalable web applications, modern SaaS platforms, and continuously lear
 
 # About Me
 
-I'm a Full Stack Developer focused on building scalable SaaS applications and modern web platforms.
+Full Stack Developer with experience building SaaS applications using modern JavaScript technologies. Passionate about backend engineering, scalable architectures, clean code, and continuously learning new technologies.
 
-My primary interests lie in backend engineering, software architecture, distributed systems, and designing reliable systems that scale.
-
-### Currently Working With
-
-- Vue.js
-- Next.js
-- AdonisJS
-- Node.js
-- MySQL
-- PostgreSQL
-
-### Currently Learning
-
-- Java & Spring Boot
-- System Design
-- Distributed Systems
-- Docker & Kubernetes
-- Redis
-- AI Agents & LLM Integrations
-
-### Engineering Principles
-
-- Write clean, maintainable code
-- Build scalable backend systems
-- Focus on performance and reliability
-- Keep learning continuously
+- **Currently Working With:** Vue.js, Next.js, AdonisJS, Node.js, MySQL & PostgreSQL
+- **Currently Learning:** Java, Spring Boot, System Design, Docker, Kubernetes, Redis & Distributed Systems
+- **Career Goal:** Build reliable software at global-scale product companies.
 
 ---
 
 # Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,ts,js,vue,nextjs,postgres,mysql,redis,prisma,docker,firebase,git,github,githubactions,vercel,vscode,linux&perline=10"/>
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,ts,js,vue,nextjs,postgres,mysql,redis,docker,firebase,git,github,githubactions,vercel,vscode,linux&perline=10" />
 </p>
 
 <p align="left">
@@ -65,71 +41,24 @@ My primary interests lie in backend engineering, software architecture, distribu
 
 ---
 
-# Featured Projects
-
-## Cyber Crime Complaint Portal
-
-A secure cyber crime reporting platform featuring authentication, complaint management, role-based dashboards, and complaint tracking.
-
-**Stack**
-
-- React
-- Node.js
-- MongoDB
-- Clerk Authentication
-
-Repository: **Add GitHub Link**
-
----
-
-## Mini Jira Clone
-
-A Jira-inspired Kanban project management application focused on collaboration, productivity, and clean UI.
-
-**Stack**
-
-- Vue.js
-- AdonisJS
-- MySQL
-
-Repository: **Add GitHub Link**
-
----
-
-
 # Current Focus
 
-- Scalable Backend Development
-- REST API Design
+- Backend Engineering
+- Scalable SaaS Applications
+- REST API Development
 - Database Optimization
 - Redis Caching
 - System Design
 - Distributed Systems
-- Docker & Kubernetes
-- Cloud Infrastructure
-- Performance Engineering
+- Cloud & DevOps
 
 ---
 
 # 2026 Goals
 
-- Build multiple production-ready SaaS products
+- Build production-ready SaaS products
 - Master Java & Spring Boot
-- Gain strong expertise in Distributed Systems
-- Improve System Design skills
+- Strengthen System Design and Distributed Systems knowledge
 - Solve 500+ DSA problems
 - Contribute to Open Source
 - Join a leading global product company as a Software Engineer
-
-
-
-# GitHub Statistics
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.shion.dev/api?username=naitik00101&show_icons=true&theme=github_dark&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=naitik00101&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=naitik00101&theme=github-dark&hide_border=true"/>
-</p>
