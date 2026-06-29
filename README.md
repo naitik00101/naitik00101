@@ -115,39 +115,66 @@ A Jira-inspired Kanban project management application focused on productivity, c
 
 ---
 
-## GitHub Achievements
+---
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=naitik00101&theme=algolia&no-frame=true&no-bg=true&margin-w=15"/>
-</p>
+## Featured Repositories
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **🔐 Cyber Crime Complaint Portal** | A secure complaint management platform with authentication, role-based access, and complaint tracking. | React • Node.js • MongoDB • Clerk |
+| **📋 Mini Jira Clone** | A modern Kanban-based project management application inspired by Jira. | Vue.js • AdonisJS • MySQL |
+| **🏢 XpertKonect** | CRM platform for lead management, onboarding workflows, and business automation. | Next.js • Prisma • PostgreSQL |
+
+> Replace each project name with its GitHub repository link.
 
 ---
 
-## Contribution Statistics
+## Areas of Interest
 
-<p align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=naitik00101&limit=5&theme=github_dark&combine_all_yearly_contributions=true"/>
-</p>
-
----
-
-## Developer Quote
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
+- Backend Engineering
+- Distributed Systems
+- Software Architecture
+- System Design
+- Cloud Computing
+- AI Engineering
+- Performance Optimization
+- Developer Experience (DX)
 
 ---
 
-## Profile Views
+## Currently Building
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=naitik00101&style=for-the-badge&color=0e75b6"/>
-</p>
+- Production-ready SaaS applications
+- Java & Spring Boot projects
+- AI-powered developer tools
+- Modern REST APIs
+- Scalable backend architectures
 
 ---
 
+## Development Environment
+
+```text
+Operating System : Windows 11
+Editor           : Visual Studio Code
+Languages        : JavaScript, TypeScript, Java
+Frameworks       : Vue.js, Next.js, AdonisJS, Node.js
+Databases        : PostgreSQL, MySQL, Redis
+DevOps           : Docker, GitHub Actions
+Version Control  : Git & GitHub
+```
+
+---
+
+## GitHub Statistics
+
 <p align="center">
-<i>"Programs must be written for people to read, and only incidentally for machines to execute."</i><br>
-<b>— Harold Abelson</b>
+<img height="170" src="https://github-readme-stats.shion.dev/api?username=naitik00101&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=naitik00101&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=naitik00101&theme=github-dark&hide_border=true"/>
+</p>
+
+---
