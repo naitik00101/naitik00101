@@ -76,14 +76,6 @@ A Jira-inspired Kanban project management application focused on productivity, c
 
 ---
 
-### XpertKonect
-
-A CRM platform designed for lead management, onboarding workflows, and business process automation.
-
-**Tech Stack:** Next.js • Prisma • PostgreSQL
-
----
-
 ## Currently Learning
 
 - Advanced Java
