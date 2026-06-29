@@ -17,17 +17,6 @@ Building scalable web applications, modern SaaS platforms, and continuously expa
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naitik.m.dev@gmail.com)
 
 ---
-
-# About Me
-
-Full Stack Developer with experience building SaaS applications using modern JavaScript technologies. Passionate about backend engineering, scalable architectures, clean code, and continuously learning new technologies.
-
-- **Currently Working With:** Vue.js, Next.js, AdonisJS, Node.js, MySQL & PostgreSQL
-- **Currently Learning:** Java, Spring Boot, System Design, Docker, Kubernetes, Redis & Distributed Systems
-- **Career Goal:** Build reliable software at global-scale product companies.
-
----
-
 # Tech Stack
 
 <p align="left">
@@ -55,6 +44,16 @@ Full Stack Developer with experience building SaaS applications using modern Jav
 <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
 
 </p>
+
+---
+
+# About Me
+
+Full Stack Developer with experience building SaaS applications using modern JavaScript technologies. Passionate about backend engineering, scalable architectures, clean code, and continuously learning new technologies.
+
+- **Currently Working With:** Vue.js, Next.js, AdonisJS, Node.js, MySQL & PostgreSQL
+- **Currently Learning:** Java, Spring Boot, System Design, Docker, Kubernetes, Redis & Distributed Systems
+- **Career Goal:** Build reliable software at global-scale product companies.
 
 ---
 
