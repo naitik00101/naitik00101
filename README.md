@@ -17,140 +17,145 @@ Passionate about building scalable web applications, exploring distributed syste
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naitik.m.dev@gmail.com)
 
 ---
+## About Me
 
-# 👨‍💻 About Me
+Full Stack Developer with experience building scalable SaaS applications and modern web platforms. I enjoy solving backend challenges, designing clean user interfaces, and building software that is reliable, maintainable, and scalable.
 
-- 💼 Full Stack Developer with experience building SaaS applications.
-- 🚀 Working with Vue.js, Next.js, AdonisJS, Node.js, MySQL and PostgreSQL.
-- 🌱 Currently learning Java, Spring Boot, Distributed Systems, System Design and Cloud.
-- 🤝 Open to collaborating on Open Source, SaaS and AI-powered applications.
-- 💬 Ask me about JavaScript, TypeScript, Vue.js, Next.js, Node.js, REST APIs and Backend Development.
-- 🎯 Goal: Build software used by millions and become a Software Engineer at a world-class product company.
-
----
-
-# 🚀 Current Focus
-
-```text
-✔ Building Production-Ready SaaS Applications
-✔ Backend Architecture & API Design
-✔ Performance Optimization
-✔ Redis & Caching
-✔ Docker & Containerization
-✔ System Design
-✔ Java & Spring Boot
-✔ AI Agents & MCP
-✔ Clean Code & Scalable Architecture
-```
+- **Current Work:** Building production-ready SaaS applications using **Vue.js, Next.js, AdonisJS, Node.js, MySQL, and PostgreSQL**.
+- **Areas of Interest:** Backend Engineering, Distributed Systems, Software Architecture, Cloud Computing, and Performance Optimization.
+- **Currently Learning:** Java, Spring Boot, System Design, Microservices, Docker, Kubernetes, Redis, AI Agents, and LLM Integrations.
+- **Collaboration:** Open to contributing to Open Source projects, SaaS platforms, Developer Tools, and AI-powered applications.
+- **Engineering Philosophy:** Focused on writing clean, maintainable, scalable, and well-tested software.
+- **Career Goal:** Build software that serves millions of users while growing into a world-class Software Engineer.
 
 ---
 
-# 💻 Tech Stack
+## Current Focus
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![AdonisJS](https://img.shields.io/badge/AdonisJS-220052?style=for-the-badge&logo=adonisjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+- Building scalable Full Stack SaaS applications
+- Designing robust backend architectures
+- Developing secure REST APIs
+- Database optimization and query performance
+- Redis caching and performance engineering
+- Java & Spring Boot ecosystem
+- System Design and Distributed Systems
+- Docker, Kubernetes, and Cloud Infrastructure
+- AI Agents, MCP, and LLM integrations
+- Clean Architecture and engineering best practices
 
 ---
 
-# ⭐ Featured Projects
+## Tech Stack
 
-### 🔹 Cyber Crime Complaint Portal
-Secure cyber crime reporting platform with authentication, admin dashboard and complaint management.
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,ts,js,vue,nextjs,postgres,mysql,redis,prisma,docker,firebase,git,github,githubactions,vercel,vscode,linux&perline=10" />
+</p>
 
-**Tech Stack:** React • Node.js • MongoDB • Clerk
+<p align="left">
+<img src="https://img.shields.io/badge/AdonisJS-5A45FF?style=for-the-badge&logo=adonisjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
+</p>
 
 ---
 
-### 🔹 Mini Jira Clone
-A modern task management application inspired by Jira with Kanban workflows.
+## Featured Projects
+
+### Cyber Crime Complaint Portal
+
+A secure cyber crime reporting platform featuring authentication, complaint management, role-based dashboards, and an intuitive user experience.
+
+**Tech Stack:** React • Node.js • MongoDB • Clerk Authentication
+
+---
+
+### Mini Jira Clone
+
+A Jira-inspired Kanban project management application focused on productivity, collaboration, and clean UI.
 
 **Tech Stack:** Vue.js • AdonisJS • MySQL
 
 ---
 
-### 🔹 XpertKonect
-CRM platform for lead management, onboarding and business workflow automation.
+### XpertKonect
+
+A CRM platform designed for lead management, onboarding workflows, and business process automation.
 
 **Tech Stack:** Next.js • Prisma • PostgreSQL
 
 ---
 
-# 🎯 2026 Goals
-
-- Master Java & Spring Boot
-- Master Distributed Systems & Microservices
-- Deep dive into System Design
-- Contribute to Open Source
-- Build Production-Scale SaaS Products
-- Solve 500+ DSA Problems
-- Land a Software Engineering role at a leading global product company
-
----
-
-# 📚 Currently Learning
+## Currently Learning
 
 - Advanced Java
 - Spring Boot
 - System Design
-- Microservices
+- Distributed Systems
+- Microservices Architecture
 - Docker & Kubernetes
-- Redis
+- Redis & Performance Optimization
 - AI Agents & MCP
 - Cloud Infrastructure
 
 ---
 
-# 📊 GitHub Stats
+## 2026 Goals
 
-![](https://github-readme-stats.shion.dev/api?username=naitik00101&theme=github_dark&show_icons=true&hide_border=true)
-
-![](https://streak-stats.demolab.com?user=naitik00101&theme=github-dark&hide_border=true)
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=naitik00101&layout=compact&theme=github_dark&hide_border=true)
-
----
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=naitik00101&theme=algolia&no-frame=true&margin-w=15)
+- Build multiple production-ready SaaS products
+- Master Java and Spring Boot
+- Develop expertise in Distributed Systems and Microservices
+- Deepen knowledge of System Design and Software Architecture
+- Contribute to impactful Open Source projects
+- Solve 500+ Data Structures & Algorithms problems
+- Secure a Software Engineering role at a leading global product company
 
 ---
 
-# 📈 Contribution Statistics
+## GitHub Statistics
 
-![](https://github-contributor-stats.vercel.app/api?username=naitik00101&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
+<p align="center">
+<img height="170" src="https://github-readme-stats.shion.dev/api?username=naitik00101&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=naitik00101&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=naitik00101&theme=github-dark&hide_border=true"/>
+</p>
 
 ---
 
-# 💭 Developer Quote
+## GitHub Achievements
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=naitik00101&theme=algolia&no-frame=true&no-bg=true&margin-w=15"/>
+</p>
 
 ---
 
-# 👀 Profile Views
+## Contribution Statistics
 
-![](https://komarev.com/ghpvc/?username=naitik00101&style=for-the-badge&color=blue)
+<p align="center">
+<img src="https://github-contributor-stats.vercel.app/api?username=naitik00101&limit=5&theme=github_dark&combine_all_yearly_contributions=true"/>
+</p>
+
+---
+
+## Developer Quote
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+---
+
+## Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=naitik00101&style=for-the-badge&color=0e75b6"/>
+</p>
 
 ---
 
 <p align="center">
-<i>"First, solve the problem. Then, write the code."</i><br>
-<b>— John Johnson</b>
+<i>"Programs must be written for people to read, and only incidentally for machines to execute."</i><br>
+<b>— Harold Abelson</b>
 </p>
