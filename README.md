@@ -1,54 +1,61 @@
+````md
 <h1 align="center">Hi 👋, I'm Naitik Morker</h1>
 
 <h3 align="center">
-Full Stack Developer | SaaS Engineer | JavaScript & Java Enthusiast
+Full Stack Developer | SaaS Engineer | Backend Enthusiast
 </h3>
 
 <p align="center">
-Passionate about building scalable web applications, exploring distributed systems, and continuously improving as a software engineer.
+Building scalable web applications, modern SaaS platforms, and continuously learning backend engineering, distributed systems, and software architecture.
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Naitik%20Morker)
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/naitikbytecode)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naitik.m.dev@gmail.com)
 
 ---
-## About Me
 
-Full Stack Developer with experience building scalable SaaS applications and modern web platforms. I enjoy solving backend challenges, designing clean user interfaces, and building software that is reliable, maintainable, and scalable.
+# About Me
 
-- **Current Work:** Building production-ready SaaS applications using **Vue.js, Next.js, AdonisJS, Node.js, MySQL, and PostgreSQL**.
-- **Areas of Interest:** Backend Engineering, Distributed Systems, Software Architecture, Cloud Computing, and Performance Optimization.
-- **Currently Learning:** Java, Spring Boot, System Design, Microservices, Docker, Kubernetes, Redis, AI Agents, and LLM Integrations.
-- **Collaboration:** Open to contributing to Open Source projects, SaaS platforms, Developer Tools, and AI-powered applications.
-- **Engineering Philosophy:** Focused on writing clean, maintainable, scalable, and well-tested software.
-- **Career Goal:** Build software that serves millions of users while growing into a world-class Software Engineer.
+I'm a Full Stack Developer focused on building scalable SaaS applications and modern web platforms.
+
+My primary interests lie in backend engineering, software architecture, distributed systems, and designing reliable systems that scale.
+
+### Currently Working With
+
+- Vue.js
+- Next.js
+- AdonisJS
+- Node.js
+- MySQL
+- PostgreSQL
+
+### Currently Learning
+
+- Java & Spring Boot
+- System Design
+- Distributed Systems
+- Docker & Kubernetes
+- Redis
+- AI Agents & LLM Integrations
+
+### Engineering Principles
+
+- Write clean, maintainable code
+- Build scalable backend systems
+- Focus on performance and reliability
+- Keep learning continuously
 
 ---
 
-## Current Focus
-
-- Building scalable Full Stack SaaS applications
-- Designing robust backend architectures
-- Developing secure REST APIs
-- Database optimization and query performance
-- Redis caching and performance engineering
-- Java & Spring Boot ecosystem
-- System Design and Distributed Systems
-- Docker, Kubernetes, and Cloud Infrastructure
-- AI Agents, MCP, and LLM integrations
-- Clean Architecture and engineering best practices
-
----
-
-## Tech Stack
+# Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,ts,js,vue,nextjs,postgres,mysql,redis,prisma,docker,firebase,git,github,githubactions,vercel,vscode,linux&perline=10" />
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,ts,js,vue,nextjs,postgres,mysql,redis,prisma,docker,firebase,git,github,githubactions,vercel,vscode,linux&perline=10"/>
 </p>
 
 <p align="left">
@@ -58,101 +65,78 @@ Full Stack Developer with experience building scalable SaaS applications and mod
 
 ---
 
-## Featured Projects
+# Featured Projects
 
-### Cyber Crime Complaint Portal
+## Cyber Crime Complaint Portal
 
-A secure cyber crime reporting platform featuring authentication, complaint management, role-based dashboards, and an intuitive user experience.
+A secure cyber crime reporting platform featuring authentication, complaint management, role-based dashboards, and complaint tracking.
 
-**Tech Stack:** React • Node.js • MongoDB • Clerk Authentication
+**Stack**
+
+- React
+- Node.js
+- MongoDB
+- Clerk Authentication
+
+Repository: **Add GitHub Link**
 
 ---
 
-### Mini Jira Clone
+## Mini Jira Clone
 
-A Jira-inspired Kanban project management application focused on productivity, collaboration, and clean UI.
+A Jira-inspired Kanban project management application focused on collaboration, productivity, and clean UI.
 
-**Tech Stack:** Vue.js • AdonisJS • MySQL
+**Stack**
+
+- Vue.js
+- AdonisJS
+- MySQL
+
+Repository: **Add GitHub Link**
 
 ---
 
-## Currently Learning
+## XpertKonect
 
-- Advanced Java
-- Spring Boot
+A CRM platform for lead management, onboarding workflows, user management, and business automation.
+
+**Stack**
+
+- Next.js
+- Prisma
+- PostgreSQL
+
+Repository: **Add GitHub Link**
+
+---
+
+# Current Focus
+
+- Scalable Backend Development
+- REST API Design
+- Database Optimization
+- Redis Caching
 - System Design
 - Distributed Systems
-- Microservices Architecture
 - Docker & Kubernetes
-- Redis & Performance Optimization
-- AI Agents & MCP
 - Cloud Infrastructure
+- Performance Engineering
 
 ---
 
-## 2026 Goals
+# 2026 Goals
 
 - Build multiple production-ready SaaS products
-- Master Java and Spring Boot
-- Develop expertise in Distributed Systems and Microservices
-- Deepen knowledge of System Design and Software Architecture
-- Contribute to impactful Open Source projects
-- Solve 500+ Data Structures & Algorithms problems
-- Secure a Software Engineering role at a leading global product company
+- Master Java & Spring Boot
+- Gain strong expertise in Distributed Systems
+- Improve System Design skills
+- Solve 500+ DSA problems
+- Contribute to Open Source
+- Join a leading global product company as a Software Engineer
 
 ---
 
-## GitHub Statistics
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.shion.dev/api?username=naitik00101&show_icons=true&theme=github_dark&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=naitik00101&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=naitik00101&theme=github-dark&hide_border=true"/>
-</p>
-
----
-
----
-
-## Featured Repositories
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| **🔐 Cyber Crime Complaint Portal** | A secure complaint management platform with authentication, role-based access, and complaint tracking. | React • Node.js • MongoDB • Clerk |
-| **📋 Mini Jira Clone** | A modern Kanban-based project management application inspired by Jira. | Vue.js • AdonisJS • MySQL |
-| **🏢 XpertKonect** | CRM platform for lead management, onboarding workflows, and business automation. | Next.js • Prisma • PostgreSQL |
-
-> Replace each project name with its GitHub repository link.
-
----
-
-## Areas of Interest
-
-- Backend Engineering
-- Distributed Systems
-- Software Architecture
-- System Design
-- Cloud Computing
-- AI Engineering
-- Performance Optimization
-- Developer Experience (DX)
-
----
-
-## Currently Building
-
-- Production-ready SaaS applications
-- Java & Spring Boot projects
-- AI-powered developer tools
-- Modern REST APIs
-- Scalable backend architectures
-
----
-
-## Development Environment
+# Development Environment
 
 ```text
 Operating System : Windows 11
@@ -166,7 +150,7 @@ Version Control  : Git & GitHub
 
 ---
 
-## GitHub Statistics
+# GitHub Statistics
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.shion.dev/api?username=naitik00101&show_icons=true&theme=github_dark&hide_border=true"/>
@@ -176,5 +160,4 @@ Version Control  : Git & GitHub
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=naitik00101&theme=github-dark&hide_border=true"/>
 </p>
-
----
+````
