@@ -96,19 +96,6 @@ Repository: **Add GitHub Link**
 
 ---
 
-## XpertKonect
-
-A CRM platform for lead management, onboarding workflows, user management, and business automation.
-
-**Stack**
-
-- Next.js
-- Prisma
-- PostgreSQL
-
-Repository: **Add GitHub Link**
-
----
 
 # Current Focus
 
@@ -134,21 +121,7 @@ Repository: **Add GitHub Link**
 - Contribute to Open Source
 - Join a leading global product company as a Software Engineer
 
----
 
-# Development Environment
-
-```text
-Operating System : Windows 11
-Editor           : Visual Studio Code
-Languages        : JavaScript, TypeScript, Java
-Frameworks       : Vue.js, Next.js, AdonisJS, Node.js
-Databases        : PostgreSQL, MySQL, Redis
-DevOps           : Docker, GitHub Actions
-Version Control  : Git & GitHub
-```
-
----
 
 # GitHub Statistics
 
